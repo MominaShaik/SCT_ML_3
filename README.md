@@ -71,12 +71,12 @@ import os
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MominaShaik/SCL_ML_3.git
+   git clone https://github.com/MominaShaik/SCT_ML_3.git
    ```
 
 2. Navigate into the repo:
    ```bash
-   cd SCL_ML_3
+   cd SCT_ML_3
    ```
 
 3. Run the training script:
