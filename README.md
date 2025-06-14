@@ -88,7 +88,7 @@ import os
 
 ## 🙋‍♂️ Author
 
-- **Rehaan**  
+- **Momina**  
   🔗 [GitHub](https://github.com/MominaShaik)
 
 ---
