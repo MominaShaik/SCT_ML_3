@@ -86,9 +86,9 @@ import os
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
-- **Momina**  
+- **👩🏻‍💼 Momina**  
   🔗 [GitHub](https://github.com/MominaShaik)
 
 ---
